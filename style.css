@@ -1,0 +1,27 @@
+html { 
+    background: url(back8.jpg) no-repeat center center fixed; 
+    /* this background picture is from unsplash.com */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+p {
+    color: white;
+    text-align: center;
+    text-decoration: wavy;
+}
+img {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 9em;
+    height: center;
+}
+a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+

@@ -1,0 +1,52 @@
+html { 
+    background: url(back7.jpg) no-repeat center center fixed; 
+    /* this background picture is from unsplash.com */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+img {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 9em;
+    height: center;
+}
+p {
+    color: white;
+    text-align: center;
+    text-decoration: wavy;
+}
+h1{
+    font-style: italic;    
+    text-align: center;
+    color: white;
+}
+h3 {
+    font-style: italic; 
+    text-align: center;
+    color: white;
+}
+h5 {
+    text-align: center;
+    color: white;
+}
+h4 {
+    font-weight: bold;
+    font-style: italic; 
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-style: italic; 
+    text-align: center;
+    color: white;
+
+}
